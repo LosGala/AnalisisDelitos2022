@@ -61,5 +61,3 @@ Para ejecutar el análisis completo, simplemente ejecute el script Python propor
 ## Licencia
 Los datos son proporcionados por el Gobierno de la Ciudad de Buenos Aires bajo la licencia de datos abiertos. El código de este proyecto es de uso libre.
 
-## Contacto
-Para preguntas o colaboraciones, por favor abra un issue en el repositorio del proyecto.
